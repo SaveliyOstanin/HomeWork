@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
-public class homeWork2 {
+public class Homework2 {
     public static void getSimleNumbers(int first, int last){
 
-        ArrayList<Integer> simpleNumbers = new ArrayList<Integer>();
+        ArrayList<Integer> simpleNumbers = new ArrayList<>();
 
         int mark;
         System.out.println("Простые числа от " + first + " до " + last);
